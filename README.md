@@ -20,7 +20,6 @@ The project follows these steps:
 6. Compare model accuracies to determine the best-performing one.
 7. Plot learning curves for the best model.
 8. Display a subset of predicted images by the best model.
-9. Compute and visualize the confusion matrix.
 
 ## Deep Learning Models Used
 The following deep learning models are implemented in this project:
@@ -53,10 +52,3 @@ pip install numpy pillow scikit-learn tensorflow matplotlib
 - Learning curves are plotted to analyze model performance.
 - A confusion matrix is displayed to assess classification accuracy.
 - Sample predicted images are shown to validate model predictions.
-
-## Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue for discussion.
-
-## License
-This project is open-source and available under the MIT License.
-
